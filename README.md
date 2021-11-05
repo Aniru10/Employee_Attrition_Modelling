@@ -1,5 +1,8 @@
 # Employee_Attrition_Modelling
 
+![image](https://user-images.githubusercontent.com/81894324/140469270-319b839f-6a38-485f-98e5-de409c7ac1db.png)
+
+
 Employee attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced.
 
 Attrition is an inevitable part of any business. There will come a time when an employee wants to leave your company – for either personal or professional reasons. But there are other reasons for attrition as well, including the lack of professional growth, a hostile work environment, or declining confidence in the company’s market value. Weak leadership is another factor that often drives attrition among employees.
