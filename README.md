@@ -5,7 +5,7 @@ Employee attrition is defined as the natural process by which employees leave th
 Attrition is an inevitable part of any business. There will come a time when an employee wants to leave your company – for either personal or professional reasons. But there are other reasons for attrition as well, including the lack of professional growth, a hostile work environment, or declining confidence in the company’s market value. Weak leadership is another factor that often drives attrition among employees.
 
 <p style="font-family:verdana;font-size:15px;font-weight:bold">
-**What Are the Different Types of Attrition?**
+What Are the Different Types of Attrition?
 </p>
 
 There are five types of employee attrition that you need to know of: 
